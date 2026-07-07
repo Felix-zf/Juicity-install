@@ -3,7 +3,7 @@
 Juicity 协议一键部署脚本
 
 ## 一键脚本地址
-📦 1. test
+1. test
 ```shell
 wget -N https://raw.githubusercontent.com/Felix-zf/Juicity-Scripts/main/juicity.sh && bash juicity.sh
 ```
